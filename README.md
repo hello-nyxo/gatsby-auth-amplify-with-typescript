@@ -28,7 +28,7 @@ You can now continuously deploy changes to your frontend or backend and Amplify 
 1. Create the project
 
 ```sh
-gatsby new gatsby-amplify-auth https://github.com/dabit3/gatsby-auth-starter-aws-amplify
+gatsby new gatsby-amplify-auth https://github.com/hello-nyxo/gatsby-auth-amplify-with-typescript
 ```
 
 2. Change into the new directory
@@ -87,4 +87,4 @@ gatsby develop
 
 # Sources
 
-The original source for this repository was [https://github.com/dabit3/gatsby-auth-starter-aws-amplify](https://github.com/dabit3/gatsby-auth-starter-aws-amplify). I have taken the original repository and modified it for TypeScript users.
+The template is fork of the original gatsby-auth-starter by Nader Dabit [https://github.com/dabit3/gatsby-auth-starter-aws-amplify](https://github.com/dabit3/gatsby-auth-starter-aws-amplify) with updated packages and typescript support.
